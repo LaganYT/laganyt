@@ -30,8 +30,3 @@ Welcome to my GitHub profile! I'm a passionate developer who started coding at a
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaganYT&layout=compact)
 
 </div>
-=======
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaganYT&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laganyt)
-
