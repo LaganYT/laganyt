@@ -9,4 +9,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laganyt&layout=donut)
+
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laganyt&layout=compact)
