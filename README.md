@@ -1,13 +1,29 @@
-## Hi there 👋
+# Hi there, I'm LaganYT! 👋
 
-- 🔭 I’m currently working on LTunes, ImpactTube, LRCLIB-Frontend
-- 🌱 I’m currently learning how to use tailwind
-- 🤔 I’m looking for help with css styling
-- 💬 Ask me about my project LTunes
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started coding at age 10
+Welcome to my GitHub profile! I'm a passionate developer who started coding at age 10 and loves building innovative projects.
 
+## 🔭 Currently Working On
+- **LTunes** - My main project (ask me about it!)
+- **ImpactTube** - Video platform development
+- **LRCLIB-Frontend** - Lyrics library frontend
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laganyt&layout=donut)
+## 🌱 Currently Learning
+- Tailwind CSS for better UI/UX design
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaganYT&layout=compact)
+## 🤝 Looking for Help With
+- CSS styling and design improvements
+
+## 👨‍💻 About Me
+- **Pronouns:** He/Him
+- **Fun Fact:** Started coding at age 10
+- **Ask Me About:** LTunes project and development journey
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laganyt&layout=donut)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaganYT&layout=compact)
+
+</div>
