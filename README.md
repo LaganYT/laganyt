@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer who started coding at a
 
 <div align="center">
 
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laganyt)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laganyt&layout=donut)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaganYT&layout=compact)
