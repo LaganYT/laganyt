@@ -4,24 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer who started coding at a
 
 ## 🔭 Currently Working On
 - **LTunes** - My main project (ask me about it!)
-- **ImpactTube** - Video platform development
-- **LRCLIB-Frontend** - Lyrics library frontend
-
-## 🌱 Currently Learning
-- Tailwind CSS for better UI/UX design
-
-
-## 🤝 Looking for Help With
-- CSS styling and design improvements
-
-## 👨‍💻 About Me
-- **Pronouns:** He/Him
-- **Fun Fact:** Started coding at age 10
-- **Ask Me About:** LTunes project and development journey
+- The **Impact** Collection - Many similar platforms all with the same name
+- **LRCLIB++** - Lyrics library
+- **Existance Macro** - I am a contributer
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="inline">
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laganyt)
 
