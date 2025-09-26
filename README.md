@@ -7,4 +7,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding at age 10
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamelaganyt&layout=donut)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laganyt&layout=donut)]
