@@ -7,3 +7,5 @@ Welcome to my GitHub profile! I'm a passionate developer who started coding at a
 - The **Impact** Collection - Many similar platforms all with the same name
 - **LRCLIB++** - Lyrics library
 - **Fuzzy Macro** - A BSS Macro based off of Existance Macro
+
+- https://github.com/Fuzzy-Team/Fuzzy-Macro
