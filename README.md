@@ -6,4 +6,4 @@ Welcome to my GitHub profile! I'm a passionate developer who started coding at a
 - **LTunes** - My main project
 - The **Impact** Collection - Many similar platforms all with the same name
 - **LRCLIB++** - Lyrics library
-- **Existance Macro** - I am a contributer
+- **Fuzzy Macro** - A BSS Macro based off of Existance Macro
