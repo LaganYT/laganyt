@@ -51,7 +51,6 @@ I started coding young, at around age 10, and most of what I build comes from wa
 ![PowerShell](https://img.shields.io/badge/PowerShell-002b0f?style=flat&logo=powershell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-00200c?style=flat&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-00150a?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000a05?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Tools**
 
