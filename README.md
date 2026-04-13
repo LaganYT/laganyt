@@ -38,38 +38,38 @@ I started coding young, at around age 10, and most of what I build comes from wa
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-00c853?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00b248?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-009e3d?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-008a33?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-007729?style=flat&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00641f?style=flat&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-005114?style=flat&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-004d13?style=flat&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-004112?style=flat&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-003611?style=flat&logo=lua&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-002b0f?style=flat&logo=powershell&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-00200c?style=flat&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-00150a?style=flat&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-14532d?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-166534?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-065f46?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-064e3b?style=flat&logo=python)
+![Go](https://img.shields.io/badge/Go-134e4a?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/Rust-0f766e?style=flat&logo=rust)
+![C++](https://img.shields.io/badge/C++-115e59?style=flat&logo=cplusplus)
+![Swift](https://img.shields.io/badge/Swift-164e63?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/Dart-155e75?style=flat&logo=dart)
+![PHP](https://img.shields.io/badge/PHP-0c4a6e?style=flat&logo=php)
+![Lua](https://img.shields.io/badge/Lua-082f49?style=flat&logo=lua)
+![Shell](https://img.shields.io/badge/Shell-0a2540?style=flat&logo=gnubash)
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/React-00c853?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-00b248?style=flat&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-009e3d?style=flat&logo=vuedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-008a33?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-007729?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-00641f?style=flat&logo=flask&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-005114?style=flat&logo=electron&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-004d13?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-166534?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-065f46?style=flat&logo=nextdotjs)
+![Vue](https://img.shields.io/badge/Vue-064e3b?style=flat&logo=vuedotjs)
+![React Native](https://img.shields.io/badge/React_Native-134e4a?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-0f766e?style=flat&logo=nodedotjs)
+![Flask](https://img.shields.io/badge/Flask-115e59?style=flat&logo=flask)
+![Electron](https://img.shields.io/badge/Electron-164e63?style=flat&logo=electron)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-155e75?style=flat&logo=tailwindcss)
 
 **Focus Areas**
 
-![Automation](https://img.shields.io/badge/Automation-00e676?style=flat&logo=githubactions&logoColor=black)
-![Desktop_Apps](https://img.shields.io/badge/Desktop_Apps-00c853?style=flat&logo=windows-terminal&logoColor=black)
-![Web_Apps](https://img.shields.io/badge/Web_Apps-00b248?style=flat&logo=vercel&logoColor=black)
-![Browser_Extensions](https://img.shields.io/badge/Browser_Extensions-009e3d?style=flat&logo=firefoxbrowser&logoColor=white)
-![AI_Projects](https://img.shields.io/badge/AI_Projects-007f2d?style=flat&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-166534?style=flat&logo=githubactions)
+![Desktop_Apps](https://img.shields.io/badge/Desktop_Apps-065f46?style=flat&logo=pcgamingwiki)
+![Mobile_Apps](https://img.shields.io/badge/Mobile_Apps-064e3b?style=flat&logo=apple)
+![Browser_Extensions](https://img.shields.io/badge/Browser_Extensions-0f766e?style=flat&logo=firefoxbrowser)
+![Web_Apps](https://img.shields.io/badge/Web_Apps-134e4a?style=flat&logo=vercel)
+![AI_Projects](https://img.shields.io/badge/AI_Projects-0c4a6e?style=flat&logo=airbrake)
 
 ---
 
