@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hi, I'm Logan. I’m a full-stack developer who likes building practical tools, creative side projects, and open-source software. I work across desktop, web, browser extensions, automation, and media-related apps.
+Hi, I'm Logan. I’m a full-stack developer who likes building practical tools, creative side projects, and open-source software. I work across desktop, mobile, web, browser extensions, automation, and media-related apps.
 
 I started coding young, at around age 10, and most of what I build comes from wanting something better, faster, or more useful than what already exists.
 
@@ -25,12 +25,10 @@ I started coding young, at around age 10, and most of what I build comes from wa
 | Project | Description |
 |---------|-------------|
 | **[Fuzzy Macro](https://github.com/Fuzzy-Team/Fuzzy-Macro)** | Open-source Bee Swarm Simulator macro built in Python with a web-based GUI |
-| **LTunes** | My music streaming utility |
-| **[LRCLIB++](https://github.com/LaganYT/LRCLIBPlusPlus)** | Lyrics library project |
-| **[Impact Collection](https://github.com/LaganYT/laganyt/blob/main/collections/impact.md)** | A group of similar platforms under the Impact name |
-| **[ImpactTube](https://github.com/LaganYT/ImpactTube)** | A front end for no cookie YouTube |
-| **[QuixAnswer](https://github.com/LaganYT/QuixAnswer)** | A sleek AI chatbot Chrome extension |
-| **[InterALEKS](https://github.com/LaganYT/InterALEKS)** | ALEKS by McGraw Hill with a few bonus features |
+| **[LRCLIB++](https://github.com/LaganYT/LRCLIBPlusPlus)** | Open-Source lyric submission website for lrclib.net |
+| **[Impact Collection](https://github.com/LaganYT/laganyt/blob/main/collections/impact.md)** | A group of open-source applications named using the prefix "Impact" |
+| **[QuixAnswer](https://github.com/LaganYT/QuixAnswer)** | A sleek AI chatbot Chrome extension powered by groq's api |
+| **[InterALEKS](https://github.com/LaganYT/InterALEKS)** | A Chrome Extension to modify features within McGrawhill's ALEKS |
 
 ---
 
