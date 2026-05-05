@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Open-Source+Builder;Desktop%2C+Web%2C+and+Automation+Projects" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://loganlatham.me"><img src="https://img.shields.io/badge/Website-loganlatham.me-000?style=flat&logo=vercel&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/LaganYT"><img src="https://img.shields.io/badge/GitHub-LaganYT-000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/Fuzzy-Team/Fuzzy-Macro"><img src="https://img.shields.io/badge/Main_Project-Fuzzy_Macro-000?style=flat&logo=github&logoColor=white" alt="Fuzzy Macro"/></a>
-</p>
-
----
 
 ## About Me
 
