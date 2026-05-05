@@ -84,3 +84,9 @@ I started coding young, at around age 10, and most of what I build comes from wa
 - **[InterALEKS](https://github.com/LaganYT/InterALEKS)**  
   A modified ALEKS experience with extra features.
 ---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/LaganYT" alt="GitHub Contribution Chart"/>
+</p>
