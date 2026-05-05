@@ -85,20 +85,6 @@ I started coding young, at around age 10, and most of what I build comes from wa
   A modified ALEKS experience with extra features.
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaganYT&theme=dark&hide_border=true&background=0d1117&ring=00c853&fire=00e676&currStreakLabel=00c853" />
-</div>
-
----
-
-## What I Like Building
-
-- Desktop tools
-- Web apps
-- Browser extensions
 - Automation systems
 - AI-related side projects
 - Media and utility platforms
