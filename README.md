@@ -88,5 +88,5 @@ I started coding young, at around age 10, and most of what I build comes from wa
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/LaganYT" alt="GitHub Contribution Chart"/>
+  <img src="https://ghchart.rshah.org/2ecc71/LaganYT" alt="GitHub Contribution Chart"/>
 </p>
