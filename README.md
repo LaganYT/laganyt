@@ -1,9 +1,10 @@
 # Logan Latham
 
-Full-stack developer. I build the version of a thing I wanted to use — native
-apps, web apps, CLIs, and automation. Most of it is open source.
+I build tools that fix something that annoyed me. Native apps, web apps, CLIs,
+and automation, most of it open source.
 
-I started around ten. That habit never really changed.
+I started around ten. The reason I build things hasn't changed since: I want a
+version that works better than the one already there.
 
 ## Selected work
 
@@ -16,8 +17,8 @@ Open-source Bee Swarm Simulator macro with a web GUI, a task system, prebuilt
 wheels, and a one-line installer.
 
 **[ImpactStream](https://github.com/LaganYT/ImpactStream)** · TypeScript
-One streaming frontend in three targets — Next.js, Expo, and Roku SceneGraph —
-sharing code only where more than one app uses it.
+One streaming frontend in three targets: Next.js, Expo, and Roku SceneGraph.
+Code moves into the shared package only when more than one app uses it.
 
 **[convertCLI](https://github.com/LaganYT/convertCLI)** · TypeScript
 `npx @lagandevs/cvt` converts images and builds GIFs from your clipboard on
@@ -30,11 +31,19 @@ leaves the machine.
 **[death-note-akinator](https://github.com/LaganYT/death-note-akinator)** · TypeScript
 Akinator for Death Note characters. Hand-built dataset, tested game engine.
 
+## Smaller projects
+
+**[FaceTimeAudioBridge](https://github.com/LaganYT/FaceTimeAudioBridge)** · Swift
+A menu-bar app that stops FaceTime from ducking your music. Routes the call
+through BlackHole into your audio interface and monitors it back out.
+
+**[deezer-worker](https://github.com/LaganYT/deezer-worker)** · JavaScript
+Cloudflare Workers client for the Deezer API, published to npm.
+
 ## Elsewhere
 
-Smaller experiments are organized in
-[collections](https://github.com/LaganYT/laganyt/blob/main/collections/README.md) —
-browser extensions, the other Impact apps, and Fuzzy tooling.
+The rest, including browser extensions and every other Impact app, is in
+[collections](https://github.com/LaganYT/laganyt/blob/main/collections/README.md).
 
 ## Tools
 

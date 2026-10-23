@@ -11,5 +11,5 @@ open-source Bee Swarm Simulator macro in Python.
 | [Fuzzy-Macro-Docs](https://github.com/Fuzzy-Team/Fuzzy-Macro-Docs) | Documentation. |
 | [macro-auto-install](https://github.com/Fuzzy-Team/macro-auto-install) | One-line command that walks you through installing the macro. |
 | [Fuzzy-Macro-Wheels](https://github.com/Fuzzy-Team/Fuzzy-Macro-Wheels) | Prebuilt Python wheels for Intel Macs below macOS 10.15. |
-| [virtual-monitor-helper](https://github.com/Fuzzy-Team/virtual-monitor-helper) | — |
-| [fuzzymacroaimodels](https://github.com/Fuzzy-Team/fuzzymacroaimodels) | — |
+| [virtual-monitor-helper](https://github.com/Fuzzy-Team/virtual-monitor-helper) | No description yet. |
+| [fuzzymacroaimodels](https://github.com/Fuzzy-Team/fuzzymacroaimodels) | No description yet. |
