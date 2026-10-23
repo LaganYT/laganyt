@@ -1,4 +1,4 @@
-# Logan Latham
+# Hello I'm Logan
 
 I build tools that fix something that annoyed me. Native apps, web apps, CLIs,
 and automation, most of it open source.
