@@ -35,11 +35,6 @@ through BlackHole into your audio interface and monitors it back out.
 **[deezer-worker](https://github.com/LaganYT/deezer-worker)** · JavaScript
 Cloudflare Workers client for the Deezer API, published to npm.
 
-## Elsewhere
-
-The rest, including browser extensions and every other Impact app, is in
-[collections](https://github.com/LaganYT/laganyt/blob/main/collections/README.md).
-
 ## Tools
 
 TypeScript · JavaScript · C · Swift · Python · Shell · BrightScript
