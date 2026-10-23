@@ -28,11 +28,6 @@ macOS, Windows, and Linux, through an interactive terminal UI.
 Audio transcription with Whisper running in the browser. Your audio never
 leaves the machine.
 
-**[death-note-akinator](https://github.com/LaganYT/death-note-akinator)** · TypeScript
-Akinator for Death Note characters. Hand-built dataset, tested game engine.
-
-## Smaller projects
-
 **[FaceTimeAudioBridge](https://github.com/LaganYT/FaceTimeAudioBridge)** · Swift
 A menu-bar app that stops FaceTime from ducking your music. Routes the call
 through BlackHole into your audio interface and monitors it back out.
